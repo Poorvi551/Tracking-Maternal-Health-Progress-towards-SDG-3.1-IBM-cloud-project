@@ -1,0 +1,20 @@
+[
+	{
+		"fields": [
+			"prediction",
+			"probability"
+		],
+		"values": [
+			[
+				"NA",
+				[
+					0,
+					1,
+					0,
+					0,
+					0
+				]
+			]
+		]
+	}
+]
