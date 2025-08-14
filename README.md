@@ -25,13 +25,20 @@ indicator-framework-version-31-2021
 
 Technology – Used IBM cloud lite services
 
-watsonx.ai studio service
-watsonx.ai runtime service
-Cloud object storage service
-Data Integration
-AutoAI
-Machine Learning models to build and deploy predictive models automatically
+watsonx.ai studio service,
+watsonx.ai runtime service,
+Cloud object storage service,
+Data Integration,
+AutoAI,
+Machine Learning models to build and deploy predictive models automatically.
 
 dataset:datafile.csv
 input: dataset
 output: output.pdf
+
+Intern Details:
+Name: S B Poorvi
+Education: B.E Final year student
+Branch: ISE
+email:nayakpoorvi08@gmail.com
+linkedin: https://www.linkedin.com/in/s-b-poorvi-a9a869330/
