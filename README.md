@@ -37,8 +37,13 @@ input: dataset
 output: output.pdf
 
 Intern Details:
+
 Name: S B Poorvi
+
 Education: B.E Final year student
+
 Branch: ISE
+
 email:nayakpoorvi08@gmail.com
+
 linkedin: https://www.linkedin.com/in/s-b-poorvi-a9a869330/
