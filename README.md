@@ -33,10 +33,12 @@ AutoAI,
 Machine Learning models to build and deploy predictive models automatically.
 
 dataset:datafile.csv
+
 input: dataset
+
 output: output.pdf
 
-Intern Details:
+INTERN Details:
 
 Name: S B Poorvi
 
