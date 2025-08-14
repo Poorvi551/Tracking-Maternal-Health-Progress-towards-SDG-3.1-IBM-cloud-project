@@ -1,4 +1,4 @@
-<img width="1919" height="844" alt="Screenshot 2025-08-04 101415" src="https://github.com/user-attachments/assets/55bea2a3-2768-4ac2-b556-837b83e04d75" /># Tracking-Maternal-Health-Progress-towards-SDG-3.1-IBM-cloud-project
+# Tracking-Maternal-Health-Progress-towards-SDG-3.1-IBM-cloud-project
 
  AICTE IBM SkillsBuild 4-weeks virtual AI and cloud Technologies Internship - Edunet Foundation
 
